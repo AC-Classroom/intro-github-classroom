@@ -2,13 +2,7 @@
 This example project is written in Python, and tested with pytest.
 
 ### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
-
-### Setup command
-`sudo -H pip3 install -r requirements.txt`
+The test in [`hello_test.py`](hello_test.py) is failing right now because the function in [`hello.py`](hello.py) isn't outputting the correct string. Fixing up this function and running the command below in the terminal will make the tests green.
 
 ### Run command
 `pytest`
-
-### Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
