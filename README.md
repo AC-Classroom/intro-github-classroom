@@ -3,11 +3,8 @@ This example project is written in Python, and tested with pytest.
 
 ### The assignment
 
-The test in [`hello_test.py`](hello_test.py) is failing right now because the function in [`hello.py`](hello.py) isn't outputting the correct string. Fix this function and run the command below in the terminal below to make the tests green. Once you've done that, commit and push your changes to GitHub using the "Source Control" button on the left sidebar. The autograder will run your tests and give you a grade.
+The test in [`hello_test.py`](hello_test.py) is failing right now because the function in [`hello.py`](hello.py) isn't outputting the correct string. Fix this function and run the `pytest` command in the terminal to make the tests green. Next, commit and push your changes to GitHub using the "Source Control" button on the left sidebar. The autograder will run your tests and give you a grade, which you can check by clicking the globe icon 🌐 for one of the workflow runs using the GitHub actions extension on the left sidebar.
 
-If you get stuck, refer back to the walkthrough video:
+If you get stuck, refer to the walkthrough video below:
 
-
-
-### Run command
-`pytest`
+https://github.com/AC-Classroom/intro-github-classroom/assets/45469701/365834d7-1418-408c-9e2c-3af7d9522426
