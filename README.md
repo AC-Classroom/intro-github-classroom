@@ -1,4 +1,4 @@
-# Autograding Example: Python
+# Intro to GitHub Classroom
 This example project is written in Python, and tested with pytest.
 
 ### The assignment
