@@ -14,5 +14,3 @@ After committing and pushing your changes, the autograder will run your tests an
 ![](github-actions-extension.gif)
 
 ▶️ If you get stuck, refer to [the walkthrough video](https://github.com/AC-Classroom/intro-github-classroom/assets/45469701/93760bf7-0d27-49dc-8f66-7d50d428677f).
-
-
